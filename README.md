@@ -1,4 +1,4 @@
-# solar-system
+# 🪐solar-system
 
 ## Technology used:
 - HTML
